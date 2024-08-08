@@ -1,4 +1,4 @@
-##Sentiment Analysis
+## Sentiment Analysis
 
 Summary
 	•	Data Loading: Loaded text and sentiment data from a CSV file.
